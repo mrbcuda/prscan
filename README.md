@@ -1,4 +1,4 @@
-# PRS Ireland
+# PRS Canada
 
 An interactive map showing the locations and sailing associations of Peter Robinson's Settlers from Ireland 1823 and 1825.
 
